@@ -16,6 +16,7 @@ This project builds a scalable and intelligent **hybrid recommendation system** 
 
 # Dataset
 https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
+- Run phase_1.py script for all 3 datasets.
 
 ---
 # How to Run the Project Step-by-Step
