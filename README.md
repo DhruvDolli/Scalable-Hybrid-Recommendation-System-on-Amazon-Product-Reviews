@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
 | 6️⃣   | `phase_6.py` | **Model Evaluation** — Calculates Precision\@10 and Recall\@10 on a validation split               |
 
 Run the following phases sequentially.
+Use Python version 3.10
 
 # Install Dependencies
 Run pip install -r requirements.txt in your IDE (VS Code or any other) terminal.
